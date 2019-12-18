@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  2 23:47:59 2019
 
-@author: Lenovo
-"""
 
 #Import modules and classes
 
